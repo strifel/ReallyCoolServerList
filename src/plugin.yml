@@ -1,0 +1,5 @@
+name: ReallyCoolServerList
+author: strifel
+version: '1.0'
+
+main: de.strifel.rcsl.Main
